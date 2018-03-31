@@ -1,3 +1,4 @@
-# welke bestanden en mappen wordenniet meegenomen in GIT uploads
+# welke bestanden en mappen worden niet meegenomen in GIT uploads
 
 node_modules/
+.vscode/
