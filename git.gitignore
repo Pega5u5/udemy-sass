@@ -1,0 +1,3 @@
+# welke bestanden en mappen wordenniet meegenomen in GIT uploads
+
+node_modules/
